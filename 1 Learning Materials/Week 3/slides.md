@@ -302,9 +302,8 @@ plt.show()
 
 ---
 
-![bg ](https://heidloff.net/assets/img/2023/02/transformers.png)
 
-
+![bg](https://heidloff.net/assets/img/2023/02/transformers.png)
 
 
 ---

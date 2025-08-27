@@ -192,7 +192,7 @@ p {
 
 1. Cognitive Bias — Bias fed by limitations in our own cognition & perspective
 2. Statistical Bias — Affects the quality of our models
-3. Prejudice / Descrimination — Prejudice on the basis of race, sex, age, etc...
+3. Prejudice / Discrimination — Prejudice on the basis of race, sex, age, etc...
 4. Conflicts of Interest — Corruption / vested interests
 
 *The world may be biased in ways we don't want to perpetuate! 

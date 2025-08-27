@@ -35,7 +35,7 @@ p {
 
 ---
 
-![bg](https://i1.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/09/un-83.png?fit=1280%2C720&ssl=1)
+![bg](https://i0.wp.com/amanxai.com/wp-content/uploads/2020/09/un-83.png?fit=1280%2C720&ssl=1)
 
 ---
 

@@ -1,13 +1,11 @@
 ### Marking Guide: AT4 Apply Machine Learning to Task Automation
 
----
 
 ``` 
 ## Objective:
 The objective of this assessment is to apply machine learning technologies to automate a task within a workplace environment. The assessment is designed to simulate the capabilities of supervised deep learning models to accomplish a task that is traditionally done manually. Students have the flexibility to select a real-world or simulated scenario that aligns with their interests or career goals.
 ```
 
----
 
 ## Deliverables 
 
@@ -133,7 +131,6 @@ The objective of this assessment is to apply machine learning technologies to au
 - Completeness, clarity, and professional quality of submission materials.
 ```
 
----
 
 ### Observation Checklist:
 Before submission, the student must review the process in-person with the lecturer. This can be done in-class or by appointment. The checklist should be filled out as the student progresses through the assessment task.
@@ -152,7 +149,6 @@ Before submission, the student must review the process in-person with the lectur
 - Completion of checklist items based on process review with lecturer.
 ```
 
----
 
 ### Marking Criteria:
 
@@ -163,7 +159,6 @@ Before submission, the student must review the process in-person with the lectur
 **Each task should be evaluated based on the following scales.**
 ```
 
----
 
 ### Additional Feedback:
 ``` 
